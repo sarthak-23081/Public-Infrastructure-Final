@@ -38,6 +38,10 @@ pip install scikit-learn
 pip install fuzzywuzzy
 ```
 
+# Youtube link
+
+https://youtu.be/9eAlW6KPlSw
+
 
 # To run the project following command can be used in the terminal
 
