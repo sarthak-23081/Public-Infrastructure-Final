@@ -29,7 +29,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 from fuzzywuzzy import process
 ```
-# Paclages needed to be installed
+# Packages needed to be installed
 ```
 pip install streamlit
 pip install gpt4all
