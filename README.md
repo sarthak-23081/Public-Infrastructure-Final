@@ -29,6 +29,15 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 from fuzzywuzzy import process
 ```
+# Paclages needed to be installed
+```
+pip install streamlit
+pip install gpt4all
+pip install pandas
+pip install scikit-learn
+pip install fuzzywuzzy
+```
+
 
 # To run the project following command can be used in the terminal
 
