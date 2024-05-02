@@ -1,0 +1,806 @@
+Bus No.,Source,Destination
+GL90,Kendriya Terminal,Rohini Sector 16
+GL22,New Delhi Railway Station Gate 2,Anand Vihar ISBT (Viveka Nand ISBT)
+GL23,ISBT / Kashmiri Gate,Anand Vihar ISBT (Viveka Nand ISBT)
+GL23Cluster,ISBT Maharana Pratap Bus (T),Anand Vihar ISBT (Viveka Nand ISBT)
+GL32,Karampura Terminal,Noida Sector 34 U.P. Roadways Terminal
+GL91,Shivaji Stadium,Mundka
+RL75,New Delhi Railway Station Gate 2,Dwarka Sector 14 Metro Station
+RL77,New Delhi Railway Station Gate 2,Mangla Puri
+RL77 Cluster,New Delhi Railway Station Gate 2,Mangla Puri Terminal
+RL77 Extn.,New Delhi Railway Station Gate 2,Dawarka Sector 19 (Pocket 2)
+RL77A,New Delhi Railway Station Gate 2,Dawarka Sector 18B
+RL77B,New Delhi Railway Station Gate 2,Dwarka More Metro Station
+RL79,New Delhi Railway Station Gate 2,Dawarka Sector 23
+7,Kendriya Terminal,Kewal Park MCD Flats
+8,Badarpur Border,Noida Phase 2
+12,ISBT / Kashmiri Gate,Bawana
+17,Old Delhi Railway Station,Ramjanpur Village
+19,Nizamuddin Railway Station,Jahangir Puri E-Block
+23,Ajmeri Gate,Hindu Rao Hospital
+26,Mukherjee Nagar Bandh,Sewa Nagar Railway X-ing
+33,Bhajanpura,Noida Sector 37
+33A,Badarpur Border,Shashi Chowk / Sector 36/37 Noida
+33C,Chauhan Patti,Anand Vihar ISBT (Viveka Nand ISBT)
+33LSTL,Dilshad Garden Depot (New Seemapuri),Mayur Vihar Phase III Terminal / Paper Market
+33LnkSTL,Dilshad Garden Depot (New Seemapuri),Anand Vihar ISBT (Viveka Nand ISBT)
+34,Mehrauli Terminal,Noida Sector 32
+39,Jheel,Tri Nagar Jai Mata Market
+40,L.N. Temple,Badarpur Border
+44,ISBT / Kashmiri Gate,Okhla
+47,Inder Puri JJ Colony,Central Work Shop II Tehkhand
+47A,Inder Puri JJ Colony,Central Work Shop II Tehkhand
+47ACL,Inder Puri JJ Colony,Tehkhand Depot DTC
+47ALnkSTL,Tehkhand Depot DTC,Okhla Depot IV CWS II
+47ASTL2,J.L.N. Stadium (Sunhari Pullah Nallah Parking),Lajpat Nagar
+53,R.K. Puram Sector 1,Nand Nagari Community Centre
+56,New Delhi Railway Station Gate 2,C.P.W.D. Colony Vasant Vihar
+61,G.T.B. Nagar,Jharoda Village
+66,J.L.N. Stadium (C.G.O. Complex),Vasant Kunj C-9
+70,Anand Vihar ISBT (Viveka Nand ISBT),Naraina Vihar
+71,ISBT / Kashmiri Gate,Inder Puri JJ Colony
+72,ISBT / Kashmiri Gate,Najafgarh
+73,Anand Vihar ISBT (Viveka Nand ISBT),Hari Nagar Clock Tower
+73 Cluster,Anand Vihar ISBT (Viveka Nand ISBT),Hari Nagar Clock Tower
+73LnkSTL,Anand Vihar ISBT (Viveka Nand ISBT),Rajghat Cluster Depot
+78,Azadpur Terminal,Inder Puri JJ Colony
+78 Cluster,Azadpur Terminal,Inder Puri (Krishi Kunj)
+81,Inder Puri JJ Colony,Mukherjee Nagar Bandh
+82,ISBT / Kashmiri Gate,Janak Puri D-Block
+85,Anand Vihar ISBT (Viveka Nand ISBT),Punjabi Bagh Terminal
+85 Cluster,Anand Vihar ISBT (Viveka Nand ISBT),Punjabi Bagh Terminal
+85 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),West Enclave
+89,Tri Nagar Jai Mata Market,R.K. Puram Sector 1
+91,Kendriya Terminal,Tri Nagar Jai Mata Market
+92,Anand Vihar ISBT (Viveka Nand ISBT),Gulabi Bagh DDA Flats
+94,Old Delhi Railway Station,Sultan Puri
+100,Kendriya Terminal,Adarsh Nagar
+100A,Kendriya Terminal,Badli Railway Station
+100 Extn.,Kendriya Terminal,Sameypur
+101,Nizamuddin Railway Station,Swaroop Nagar JJ Colony GT Road
+101BCluster,Old Delhi Railway Station,Swaroop Nagar JJ Colony GT Road
+101ExtCluster,Old Delhi Railway Station,Swaroop Nagar JJ Colony GT Road
+102,Old Delhi Railway Station,Rohini Sector 22 (Lakhi Ram Park)
+102 STL,Madhuban Chowk,Inder Enclave
+103,Fatehpuri,Narela Terminal
+103 Extn.,Tri Nagar Jai Mata Market,Narela Industrial Area E-Block
+103 STL,Azadpur Terminal,A7 Raja Harish Chandra Hospital Narela
+104,Shivaji Stadium,Jharoda Village
+105,ISBT / Kashmiri Gate,Mukhmel Pur
+106,Fatehpuri,Qutubgarh Border
+106A,Old Delhi Railway Station,Bawana
+107,Fatehpuri,Katewara Village
+108,Balak Ram Hospital,Hari Nagar Clock Tower
+108Cluster,Nehru Vihar,Hari Nagar Clock Tower
+108STLCluster,BBM II Depot,Nehru Vihar
+106A,Old Delhi Railway Station,Fatehpuri
+109,Azadpur Terminal,Bankner Village
+110,Kendriya Terminal,Sangam Vihar
+112,Fatehpuri,Shafiabad Border
+113,Fatehpuri,Sanoth Village
+113 Extn.,Azadpur Terminal,Ghoga Village
+114,Fatehpuri,Qutubgarh Border
+114 Etxn.,Azadpur Terminal,Jat Khor
+114A,Azadpur Terminal,Auchandi Border
+114B,Azadpur Terminal,Katewara Village
+114+182ACluster,Kanjhawla Depot,ISBT / Kashmiri Gate
+114+990Cluster,Shivaji Stadium,Kanjhawla Depot
+114+990ECluster,Shivaji Stadium,Kanjhawla Depot
+114ST+901D Cluster,Kanjhawla Depot,Kamla Market
+115,Old Delhi Railway Station,Ashok Vihar Ph-II
+118 Extn.,Mori Gate Terminal,Mayur Vihar Ph-III
+119,Fatehpuri,Bajitpur Village
+120,Kendriya Terminal,Narela Terminal
+120A,Mori Gate Terminal,Narela Terminal
+120B,New Delhi Railway Station Gate 2,Narela Terminal
+123,Mori Gate Terminal,Harewali Border
+124,Fatehpuri,Mukhmel Pur
+125,Fatehpuri,Palla
+127,Fatehpuri,Haider Pur Village
+128,Mori Gate Terminal,Khera Khurd
+129,Old Delhi Railway Station,Jhingola Village
+130,Old Delhi Railway Station,Ghoga Village
+131,Fatehpuri,Lampur Border
+133,Mori Gate,Narela Terminal
+134,ISBT / Kashmiri Gate,Ibrahim Pur
+135,Delhi Secretariat,Narela Terminal
+136,Fatehpuri,Ghoga Village
+137,Fatehpuri,Holambi Kalan
+138,Fatehpuri,Hamid Pur
+140,Mori Gate Terminal,Shahbad Dairy
+142,Old Delhi Railway Station,Jahangir Puri E-Block
+142A,Narela Terminal,Jahangir Puri E-Block
+143,Anand Vihar ISBT (Viveka Nand ISBT),Keshav Nagar (Mukti Ashram Nathupura)
+144,Fatehpuri,Singhu School
+146,Fatehpuri,Hiranki Village
+147,Fatehpuri,Tiggi Pur
+148,Fatehpuri,Tikri Khurd
+149,Fatehpuri,Tajpur Kalan
+154,Mori Gate Terminal,Dehisra Border
+157,Palika Kendra,Ashok Vihar Ph-II
+159,Inder Puri,Jahangir Puri E-Block
+160,Kendriya Terminal,Haider Pur
+162,G.T.K. Depot,Tiggi Pur
+163,Anand Vihar ISBT (Viveka Nand ISBT),Narela Terminal
+164,Shivaji Stadium,Saraswati Vihar
+165,Anand Vihar ISBT (Viveka Nand ISBT),Shahbad Dairy
+166,Nizamuddin Railway Station,BH Block Shalimar Bagh
+169,ISBT / Kashmiri Gate,Katewara Village
+169SPL TRIP,Maurice Nagar,Katewara Village
+171,Shivaji Stadium,Holambi Kalan JJ Colony
+172,New Delhi Railway Station Gate 2,Holambi Kalan JJ Colony
+173,J.L.N. Stadium (C.G.O. Complex),Narela Sector A 5-6
+174 STL,Azadpur Terminal,Jonti Border
+175,Fatehpuri,Lampur Border
+176,Mori Gate Terminal,Palla
+177,Mori Gate Terminal,Katewara Village
+179,Azadpur Terminal,Narela Terminal
+180,Kendriya Terminal,Baba Colony Sant Nagar (Shiv Mandir Burari)
+181,Nizamuddin Railway Station,Jahangir Puri E-Block
+181A,Nizamuddin Railway Station,Jahangir Puri E-Block
+181ACluster,Nizamuddin Railway Station,Jahangir Puri E-Block
+182A,ISBT / Kashmiri Gate,Sukhbir Nagar
+182ACluster,ISBT / Kashmiri Gate,Sukhbir Nagar
+183,Old Delhi Railway Station,Rohini Sector 15 Pocket-2
+184,Old Delhi Railway Station,BH Block Shalimar Bagh
+185,Kendriya Terminal,Keshav Nagar (Mukti Ashram Nathupura)
+185Cluster,Kendriya Terminal,Nathu Pura
+185LnkSTLCluster,Old Delhi Railway Station,BBM II Depot
+185STLCluster,BBM II Depot,Nathu Pura
+186,ISBT / Kashmiri Gate,Mukand Pur
+187,Palika Kendra,Siras Pur
+190,Kendriya Terminal,Sant Nagar
+191,Mori Gate Terminal,Harewali Village
+192,ISBT / Kashmiri Gate,Keshav Nagar (Mukti Ashram Nathupura)
+192 STL,G.T.B. Nagar,Keshav Nagar (Mukti Ashram Nathupura)
+193,Mori Gate Terminal,Narela Terminal
+194,Fatehpuri,Bakoli Temple
+195,Old Delhi Railway Station,Siras Pur
+196,Shivaji Stadium,Rohini Sector 18
+198,Wazirpur Depot,Bhalswa JJ Colony
+199,Old Delhi Railway Station,Badli Railway Station
+202,Old Delhi Railway Station,Anand Vihar ISBT (Viveka Nand ISBT)
+204,Shivaji Stadium,Ghonda
+205,Old Delhi Railway Station,New Seemapuri
+210,Kendriya Terminal,Harsh Vihar
+211,Mori Gate Terminal,Mayur Vihar Ph-III
+211Cluster,Mori Gate Terminal,Mayur Vihar Phase III Terminal / Paper Market
+211A,Mori Gate Terminal,Mayur Vihar Ph-I
+211LnkSTLCluster,Dilshad Garden Depot (New Seemapuri),Mayur Vihar Phase III Terminal / Paper Market
+212,Anand Parbat,Anand Vihar ISBT (Viveka Nand ISBT)
+212Cluster,Anand Parbat,Anand Vihar ISBT (Viveka Nand ISBT)
+212ACluster,Anand Parbat,Nand Nagri Terminal
+213,Kendriya Terminal,Harsh Vihar
+213A,B.M.D. Chowk,Nand Nagri
+214,Kamla Market,Seema Puri
+214A,Anand Parbat,Seema Puri
+214CLCluster,Ajmeri Gate,Dilshad Garden Depot (New Seemapuri)
+216,L.N. Temple,New Seemapuri
+217,B.M.D. Chowk,Gokulpuri
+218,Babarpur Extn.,Shadi Pur Depot
+219,Old Delhi Railway Station,Nangloi
+219 STL,Old Delhi Railway Station,Hiran Kudna X-ing
+219ExtCluster,Old Delhi Railway Station,Kanjhawla Depot
+219STLCluster,Old Delhi Railway Station,Hiran Kudna Crossing
+221,Mori Gate Terminal,Anand Vihar ISBT (Viveka Nand ISBT)
+221A,Mori Gate Terminal,Jhilmil Colony
+227,Old Delhi Railway Station,Karawal Nagar
+227A,Old Delhi Railway Station,Karawal Nagar Pusta
+227B,Old Delhi Railway Station,Karawal Nagar
+231,Old Delhi Railway Station,Mangol Puri Q-Block
+234,Tilak Nagar,Harsh Vihar
+234CLCluster,Karampura Terminal,Harsh Vihar
+234CLECluster,Punjabi Bagh Terminal,Harsh Vihar
+235,Wazirpur JJ Colony,Nand Nagri Terminal
+236,Anand Vihar ISBT (Viveka Nand ISBT),Nangloi JJ Colony
+236Cluster,Anand Vihar ISBT (Viveka Nand ISBT),Kamruddin Nagar
+236 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Savda Ghevra JJ Colony
+241,Shivaji Stadium,Nand Nagri Terminal
+246,Shivaji Stadium,Seema Puri
+246CLCluster,Shivaji Stadium,Dilshad Garden Depot (New Seemapuri)
+247,ISBT / Kashmiri Gate,Kanjhawla Village
+248,Mori Gate Terminal,Johri Pur Village
+253,Mori Gate Terminal,Yamuna Vihar Terminal
+253Cluster,Mori Gate Terminal,Yamuna Vihar C-4
+254,Babarpur Extn.,Kamruddin Nagar
+255,Kendriya Terminal,Sabha Pur Village
+258,Mori Gate Terminal,Chauhan Patti
+258Cluster,Mori Gate Terminal,Chauhan Patti
+259,Jahangir Puri E-Block,Harsh Vihar
+260,Kendriya Terminal,Yamuna Vihar C-4
+261,Sarai Kale Khan ISBT,Nand Nagri Terminal
+261Cluster,Sarai Kale Khan ISBT,Nand Nagri Terminal
+261LnkSTLCluster,Sarai Kale Khan ISBT,Rajghat Cluster Depot
+262,Kalyan Vihar,Harsh Vihar
+262Cluster,Kalyan Vihar,Harsh Vihar
+262LinkSTLCluster,Kalyan Vihar,BBM II Depot
+263,Mori Gate Terminal,Indira Puri Loni Border
+266,Shivaji Stadium,Jagat Pur Temple
+270,Kendriya Terminal,Karawal Nagar Pusta
+271,Kendriya Terminal,Jagat Pur Temple
+273,Shivaji Stadium,Indira Puri Loni Border
+274,Babarpur Extn.,Okhla Extn. / Abul Fazal Enclave
+280,Kendriya Terminal,Nand Nagri Terminal
+281,Kendriya Terminal,Dilshad Garden
+301,B.M.D. Chowk,Mayur Vihar Ph-III
+302,Mori Gate Terminal,Jheel
+306,Nehru Place Terminal,Kalyan Puri
+307,Kamla Market,Trilok Puri 31/27-Block
+307A,New Delhi Railway Station Gate 2,Mayur Vihar Ph-II
+309,Anand Parbat,Kalyan Puri
+309EXTCluster,Anand Parbat,Rajghat Cluster Depot
+310,I.T.O. (Ring Road),Jheel
+313,Vivek Vihar,Inder Puri
+317,Shivaji Stadium,Shahadra Terminal
+319,Shahadra Terminal,Noida Sector 32
+320,Kendriya Terminal,Shahadra Terminal
+326,Vasant Kunj Sector A,Krishna Nagar
+327,Punjabi Bagh Terminal,Mayur Vihar Extn.
+331,Shivaji Stadium,Nand Nagri Extn.
+333,Jahangir Puri E-Block,Anand Vihar ISBT (Viveka Nand ISBT)
+335,Hauz Khas Terminal,Nand Nagri Terminal
+350,Anand Parbat,Nand Nagri Terminal
+351,Anand Parbat,Gazi Pur Dairy Farm
+352,Wazirpur JJ Colony,Krishna Nagar
+355,Anand Parbat,Noida Sector 32 Terminal
+355A,New Delhi Railway Station Gate 2,Noida Sector 47
+355B,New Delhi Railway Station Gate 1,Noida Sector 62 (Electronic City)
+358,Karol Bagh Terminal,New Seemapuri
+362,Mori Gate Terminal,Vasundhara Enclave
+374,Nehru Place Terminal,Nand Nagri Terminal
+375,Nand Nagri Terminal,Dilshad Garden
+378,Kendriya Terminal,Mayur Vihar Ph-III
+384,Arya Samaj Road / Gurudwara Road,Trilok Puri 31/27-Block
+390,Kendriya Terminal,Mayur Vihar Ph-I
+391,Kendriya Terminal,Kalyan Puri
+392,Maya Puri Chowk,Noida Sector 62 (Electronic City)
+392B,IGI Airport TerminalII,Jaipuria Mall (Indira Puram U.P.)
+398EXP,Dhaula Kuan,Mayur Vihar Ph-III
+400,Minto Road Terminal,Okhla Extn. / Abul Fazal Enclave
+402,Azadpur Terminal,Okhla Extn. / Abul Fazal Enclave
+400Cluster,Minto Road Terminal,Okhla Extn. / Abul Fazal Enclave
+402CLCluster,Azadpur Terminal,Okhla Extn. / Abul Fazal Enclave
+403,Old Delhi Railway Station,Okhla Extn. / Abul Fazal Enclave
+403CLCluster,Old Delhi Railway Station,Okhla Extn. / Abul Fazal Enclave
+403STLCluster,Kushak Nallah Depot,Okhla Extn. / Abul Fazal Enclave
+404,Old Delhi Railway Station,Madan Pur Khadar
+404Cluster,Old Delhi Railway Station,Sarita Vihar D Block / Madanpur Khadar Village
+404 Extn.,Old Delhi Railway Station,Madan Pur Khadar JJ Colony
+404LinkSTLCluster,Kushak Nallah Depot,Madan Pur Khadar
+405,Mori Gate Terminal,Badarpur Border
+405Cluster,Mori Gate Terminal,Badarpur Border
+405A,Old Delhi Railway Station,Badarpur Border
+405ACluster,Old Delhi Railway Station,Badarpur Border
+405ASTLCluster,Kushak Nallah Depot,Badarpur Border
+405STLCluster,ISBT / Kashmiri Gate,J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+408,Raghubir Nagar F-Block,Nizamuddin Railway Station
+408CLCluster,Raghubir Nagar F-Block,Nizamuddin Railway Station
+408EXTCLCluster,Raghubir Nagar F-Block,Kendriya Terminal Church Road
+408STLCluster,J.L.N. Stadium (Sunhari Pullah Nallah Parking),Nizamuddin Railway Station
+409,Old Delhi Railway Station,Molar Bandh School
+410,Khyala JJ Colony,Jal Vihar Terminal
+410ACLCluster,Khayala More/ Subhash Nagar Crossing,Police Station Nizamuddin
+410CLCluster,Subhash Nagar X-ing,Jal Vihar Terminal
+410StlCluster,J.L.N. Stadium (Sunhari Pullah Nallah Parking),Jal Vihar Terminal
+411,Mori Gate Terminal,Ambedkar Nagar Terminal
+411LnkSTLCluster,Nizamuddin Railway Station,Okhla Depot IV CWS II
+413,Police Station Nizamuddin,Mehrauli Terminal
+414,Police Station Nizamuddin,Badarpur Border
+415,Jal Vihar Terminal,Jaitpur Village
+416,Jal Vihar Terminal,Ambedkar Nagar Terminal
+418ACluster,Shahadra Terminal,Badarpur Border
+418ALnkSTLCluster,Kushak Nallah Depot,Badarpur Border
+418EXTCluster,Shahadra Terminal,Kushak Nallah Depot
+419,Old Delhi Railway Station,Ambedkar Nagar Terminal
+422,ISBT / Kashmiri Gate,Badarpur Border
+423,Mori Gate Terminal,Ambedkar Nagar Terminal
+423A,Mori Gate Terminal,Devli Village
+425,Old Delhi Railway Station,Hamdard Nagar
+425CLCluster,Old Delhi Railway Station,Hamdard Nagar
+425STLCluster,Kushak Nallah Depot,Hamdard Nagar
+427,Nizamuddin Railway Station,Mehrauli Terminal
+429,Old Delhi Railway Station,Kalka Ji DDA Flats
+429CLCluster,Old Delhi Railway Station,DDA Flats Kalkaji
+429LSTLCluster,Kushak Nallah Depot,Old Delhi Railway Station
+429STLCluster,Kushak Nallah Depot,Kalka Ji DDA Flats
+429STL2Cluster,Old Delhi Railway Station,Kushak Nallah Depot
+430,Kendriya Terminal,Badarpur Border
+433,New Delhi Railway Station Gate 2,Badarpur Border
+433CLCluster,New Delhi Railway Station Gate 2,Badarpur Border
+433LnkSTLCluster,New Delhi Railway Station Gate 2,Okhla Depot IV CWS II
+433STLCluster,Kushak Nallah Depot,Badarpur Border
+435,New Delhi Railway Station Gate 2,Tara Apartment
+436,Old Delhi Railway Station,Jal Vihar Terminal
+438,Old Delhi Railway Station,Jaitpur Village
+439,Mori Gate Terminal,Badarpur Border
+440,New Delhi Railway Station Gate 2,Ambedkar Nagar Terminal
+440A,New Delhi Railway Station Gate 2,Badarpur Border
+442,Azadpur Terminal,Nehru Place Terminal
+443,Shahadra Terminal,Badarpur Border
+445,New Delhi Railway Station Gate 2,Kalka Ji DDA Flats
+445ACluster,New Delhi Railway Station Gate 2,Hamdard Nagar
+445STLCluster,Kushak Nallah Depot,Hamdard Nagar
+447,Bhalswa JJ Colony,Ambedkar Nagar Sector 5
+448,Punjabi Bagh Terminal,Hamdard Nagar
+448A,West Enclave,Hamdard Nagar
+448CLCluster,Punjabi Bagh Terminal,Sangam Vihar
+448EXTCluster,Punjabi Bagh Terminal,Kushak Nallah Depot
+448STLCluster,Kushak Nallah Depot,Sangam Vihar
+449,Old Delhi Railway Station,Ambedkar Nagar Depot
+449CLCluster,Old Delhi Railway Station,C R Park Market II
+450,Anand Parbat,Jal Vihar Terminal
+450LnkSTLCluster,Shivaji Stadium,J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+451,Jantar Mantar,Jaitpur Village
+453,New Delhi Railway Station Gate 2,Jait Pur Extn. (Ishlam Pur)
+454,New Delhi Railway Station Gate 2,Jait Pur Extn. Part-II
+455,Mori Gate Terminal,Jaitpur Village
+457,New Delhi Railway Station Gate 2,Molar Bandh School
+457STLCluster,Kamla Market,J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+458,New Delhi Railway Station Gate 2,Madan Pur Khadar JJ Colony
+460,Minto Road Terminal,Badarpur Border
+460CLCluster,Minto Road Terminal,Badarpur Border
+460STLCluster,Minto Road Terminal,Kushak Nallah Depot
+463,Okhla Enclave,Mehrauli Terminal
+465,Safdarjung Terminal,Madan Pur Khadar JJ Colony
+465 Extn.,Safdarjung Terminal,Sarita Vihar
+467,New Delhi Railway Station Gate 2,Gautam Puri
+469,Anand Vihar ISBT (Viveka Nand ISBT),Ambedkar Nagar Terminal
+473,Anand Vihar ISBT (Viveka Nand ISBT),Badarpur Border
+473 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Mitha Pur
+473A,Anand Vihar ISBT (Viveka Nand ISBT),Hamdard Nagar
+473CLCluster,Anand Vihar ISBT (Viveka Nand ISBT),Badarpur Border
+474,Safdarjung Terminal,Mitha Pur Extn. (Sindhu Farm)
+479,Punjabi Bagh Terminal,Badarpur Border
+479ACLCluster,Dhaula Kuan,Badarpur Border
+479CLCluster,Punjabi Bagh Terminal,Badarpur Border
+479STLCluster,Kushak Nallah Depot,Badarpur Border
+480,Kendriya Terminal,Kalka Ji DDA Flats
+480Cluster,Kendriya Terminal,DDA Flats Kalkaji
+490,Rajendra Nagar R-Block,Kalka Ji DDA Flats
+491,Nehru Place Terminal,Noida Phase 2
+492,Nehru Place Terminal,Noida Sector 62 (Electronic City)
+493,Mehrauli Terminal,Mayur Vihar Ph-III
+500,New Delhi Railway Station Gate 2,Saket
+501,Nehru Place Terminal,Saket J-Block
+502,Old Delhi Railway Station,Mehrauli Terminal
+503,Mori Gate Terminal,Malviya Nagar F-Block
+505,Kamla Market,Mehrauli Terminal
+506,Safdarjung Terminal,Jheer Khore Temple
+507,Dhaula Kuan,Okhla Extn. / Abul Fazal Enclave
+507 Extn.,Poorvanchal Hostel,Okhla
+507CLCluster,ARSD College / Dhaula Kuan,Okhla Extn. / Abul Fazal Enclave
+507STLCluster,Kushak Nallah Depot,Okhla Extn. / Abul Fazal Enclave
+508,Bhatti Mines,Raghubir Nagar F-Block
+509,Safdarjung Terminal,Maidan Garhi
+511,Badarpur Border,Dhaula Kuan
+511 Extn.,Badarpur Border,Malviya Nagar F-Block
+511A,Badarpur Border,Dhaula Kuan
+511ASTLCluster,Badarpur Border,Okhla Depot IV CWS II
+512,R.K. Puram Sector 1,Ambedkar Nagar Sector 4 (Virat Cinema)
+514,Sarojini Nagar Depot,Kalka Ji DDA Flats
+516,Safdarjung Terminal,Dera Village
+517,Safdarjung Terminal,Aya Nagar
+518,Nizamuddin Railway Station,Uttam Nagar Terminal
+519,Safdarjung Terminal,Jagat Pur Temple
+520,Super Bazar,Malviya Nagar F-Block
+521,Karampura Terminal,Ambedkar Nagar Sector 4 (Virat Cinema)
+522,Ambedkar Nagar Terminal,Inder Puri (Krishi Kunj)
+522A,Inder Puri,Hamdard Nagar
+522CLCluster,Ambedkar Nagar Terminal,Inder Puri (Krishi Kunj)
+522SPL,New Delhi Railway Station Gate 2,Hamdard Nagar
+522STLCluster,Ambedkar Nagar Terminal,Kushak Nallah Depot
+523,Dhaula Kuan,Bhatti Mines
+525,Badarpur Border,Aya Nagar
+529,Nehru Place Terminal,Nangloi Syed
+529 Extn.,Nehru Place Terminal,Raghubir Nagar N-Block
+533,Mori Gate Terminal,Mehrauli Terminal
+534,Anand Vihar ISBT (Viveka Nand ISBT),Mehrauli Terminal
+534Cluster,Anand Vihar ISBT (Viveka Nand ISBT),Mehrauli Terminal
+534A,Anand Vihar ISBT (Viveka Nand ISBT),IGI Airport TerminalII
+536,R.K. Puram Sector 1,Chhatarpur Extn.
+539,Mehrauli Terminal,Nangloi
+540,Kendriya Terminal,Tara Apartment
+540ACLCluster,Safdarjung Terminal,Tara Apartment
+540CLCluster,Kendriya Terminal,Tara Apartment
+540STLCluster,Okhla Depot IV CWS II,Tara Apartment
+542,New Seemapuri,Hauz Khas Terminal
+543,Anand Vihar ISBT (Viveka Nand ISBT),Safdarjung Terminal
+543 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Greater Kailash Part-II M-Block Market
+543A,Anand Vihar ISBT (Viveka Nand ISBT),Kapashera Border
+543ACluster,Anand Vihar ISBT (Viveka Nand ISBT),Kapashera Border
+543B,Anand Vihar ISBT (Viveka Nand ISBT),IGI Airport TerminalIII
+543STLCluster,Anand Vihar ISBT (Viveka Nand ISBT),Kushak Nallah Depot
+544,R.K. Puram Sector 1,Badarpur Border
+544A,R.K. Puram Sector 1,Nehru Place Terminal
+545,Bhatti Mines,Uttam Nagar Terminal
+548,Minto Road Terminal,Tughlakabad Village
+548CLCluster,Minto Road Terminal,Sangam Vihar
+548ExtCluster,Minto Road Terminal,Okhla Depot IV CWS II
+558,Bhatti Mines,Karampura Terminal
+567,Sarai Kale Khan ISBT,Kamruddin Nagar
+567A,Nehru Place Terminal,Mundka Village
+568,Safdarjung Terminal,Mangol Puri Q-Block
+568A,Nehru Place Terminal,Mangol Puri Q-Block
+569,Safdarjung Terminal,Sultan Puri D-Block
+569 Extn.,Safdarjung Terminal,Inder Enclave
+569A,Safdarjung Terminal,Prem Nagar Mishra Chowk
+569B,Safdarjung Terminal,Inder Enclave
+569C,Safdarjung Terminal,Inder Enclave
+578,Safdarjung Terminal,Najafgarh
+578STLCluster,Kapashera Border,Kair Depot
+580,Kendriya Terminal,Ambedkar Nagar Sector 5
+581,Kendriya Terminal,Hamdard Nagar
+588,J.L.N. Stadium (C.G.O. Complex),Uttam Nagar Terminal
+588Cluster,J.L.N. Stadium (Sunhari Pullah Nallah Parking),C.G.O. Complex
+590,Shivaji Stadium,Chhatarpur Pahari (Syndicate Bank)
+601,R.K. Puram Sector 1,Rohini Sector 16
+602,B.M.D. Chowk,Vasant Kunj C-9
+604,New Delhi Railway Station Gate 2,Chhatarpur Metro Station
+605,Mori Gate Terminal,Vasant Kunj C-9
+610,Wazirpur Depot,R.K. Puram Sector 1
+610A,Anand Parbat,R.K. Puram Sector 1
+611,Mayur Vihar Ph-III,Dhaula Kuan
+611Cluster,Mayur Vihar Phase III Terminal / Paper Market,ARSD College (Dhaula Kuan)
+611A,Mayur Vihar Ph-II,Subhash Nagar Terminal
+611BCluster,Mayur Vihar Phase III Terminal / Paper Market,R.K. Puram Sector 1
+615,Minto Road Terminal,Poorvanchal Hostel
+615A,Mithapur,Poorvanchal Hostel
+620,Shivaji Stadium,Hauz Khas Terminal
+621,Minto Road Terminal,Poorvanchal Hostel
+622,New Delhi Railway Station Gate 2,Krishna Nagar
+623,Shahadra Terminal,C.P.W.D. Colony Vasant Vihar
+623Cluster,Shahadra Terminal,Shahdara (Shyam Lal College)
+623A,Anand Vihar ISBT (Viveka Nand ISBT),C.P.W.D. Colony Vasant Vihar
+623B,Shahadra Terminal,Vasant Kunj C-9
+623EXTCluster,Dilshad Garden Depot (New Seemapuri),C.P.W.D. Colony Vasant Vihar
+624A,Munirka,Anand Vihar ISBT (Viveka Nand ISBT)
+624ACLCluster,Munirka,Anand Vihar ISBT (Viveka Nand ISBT)
+624ALinkSTLCluster,Munirka,J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+624BLnkSTLCluster,Anand Vihar ISBT (Viveka Nand ISBT),J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+629,Mehrauli Terminal,Khyala JJ Colony
+630,Kendriya Terminal,Nanakpura Community Center
+631,R.K. Puram Sector 1,Haider Pur Village
+632,Mori Gate Terminal,Nanakpura Community Center
+680,Kendriya Terminal,Ambedkar Nagar Sector 4 (Virat Cinema)
+680 Extn.,Hari Nagar Clock Tower,Hamdard Nagar
+701,Narela Terminal,Najafgarh
+701A,Singhu Border,Qutubgarh Border
+704,Vivek Vihar,Janak Puri B-1
+706,Mori Gate Terminal,Rajokari Harijan Basti
+707,Narela Terminal,Najafgarh Terminal
+708,Narela Terminal,Najafgarh
+708A,Lampur Border,Peera Garhi
+711,Uttam Nagar Terminal,Sarai Kale Khan ISBT
+711Cluster,Uttam Nagar Terminal,Sarai Kale Khan ISBT
+711A,Uttam Nagar Terminal,Sarai Kale Khan ISBT
+714,Badarpur Border,Rajokari Harijan Basti
+715,Madhu Vihar,Mehrauli Terminal
+716,Shivaji Stadium,Dhool Siras
+717 (Down),Badarpur Border,Shahbad Mohd. Pur
+717 (Up),Badarpur Border,Shahbad Mohd. Pur
+717A (Down),Badarpur Border,Kapashera Border
+717A (Up),Badarpur Border,Kapashera Border
+717ACluster,Badarpur Border,Kapashera Border
+717B,Badarpur Border,IGI Airport TerminalII
+718,Uttam Nagar Terminal,Kapashera Border
+719 (Down),J.L.N. Stadium (C.G.O. Complex),Pandwala Village
+719 (Up),J.L.N. Stadium (C.G.O. Complex),Pandwala Village
+720,Shahadra Terminal,Janak Puri B-1
+721,ISBT / Kashmiri Gate,Palam Village / Mangla Puri
+721Cluster,ISBT / Kashmiri Gate,Mangla Puri Terminal
+722 (Down),Ambedkar Stadium Terminal,Badu Sarai
+724,Uttam Nagar Terminal,Nehru Place Terminal
+724Cluster,Uttam Nagar Terminal,Nehru Place Terminal
+724A,Uttam Nagar Terminal,Badarpur Border
+724B,Uttam Nagar Terminal,Badarpur Border
+724C,Uttam Nagar Terminal,Kalka Ji DDA Flats
+724EXTCluster,Kair Depot,Nehru Place Terminal
+725,Mehrauli Terminal,Maya Puri Chowk
+726,ISBT / Kashmiri Gate,Janak Puri D-Block
+727,J.L.N. Stadium (C.G.O. Complex),Dwarka More Metro Station
+727Cluster,J.L.N. Stadium (Sunhari Pullah Nallah Parking),Dwarka More Metro Station
+728Cluster,New Delhi Railway Station Gate 2,Sai Baba Mandir (Nazafgarh)
+728STLCluster,Sai Baba Mandir (Nazafgarh),Kair Depot
+729,Mori Gate Terminal,Kapashera Border
+729Cluster,Mori Gate Terminal,Kapashera Border
+729B,Mori Gate Terminal,Sadarpur Village
+735,J.L.N. Stadium (C.G.O. Complex),Daulatpur
+740,Anand Vihar ISBT (Viveka Nand ISBT),Uttam Nagar Terminal
+740 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Uttam Nagar Terminal
+740A,Anand Vihar ISBT (Viveka Nand ISBT),Mangla Puri
+740ExtCluster,Anand Vihar ISBT (Viveka Nand ISBT),
+741,Mangla Puri,Jonti School (Shivalya)
+741A,Uttam Nagar Terminal,Katewara Village
+753,Mori Gate Terminal,Uttam Nagar Terminal
+753Cluster,Mori Gate Terminal,Uttam Nagar Terminal
+760,B.M.D. Chowk,Old Nangal
+761,Mangla Puri,Azadpur Terminal
+761Cluster,Mangla Puri,Azadpur Terminal
+764,Najafgarh,Nehru Place Terminal
+764ExtCluster,Sai Baba Mandir (Nazafgarh),Okhla Depot IV CWS II
+764Cluster,Sai Baba Mandir (Nazafgarh),Nehru Place Terminal
+764LnkSTLCluster,Kair Depot,Mangla Puri Terminal
+765,Bakkarwala JJ Colony,Hauz Khas Terminal
+770,Ambedkar Stadium Terminal,Palam Village
+770A,Old Delhi Railway Station,Madhu Vihar
+773,Ambedkar Stadium Terminal,Barthal Village
+775,Karol Bagh Terminal,Bijwasan Border
+778,Inder Lok Metro Station,Madhu Vihar
+778A,Inder Lok Metro Station,Dwarka Sector 10 Terminal
+781,New Delhi Railway Station Gate 2,Guru Gobind Singh Indraprastha University (Dwarka Sector 16C)
+781Cluster,New Delhi Railway Station Gate 2,Dwarka Sec 16C/GGS IP University
+783,Delhi Secretariat,Najafgarh
+790,Ambedkar Stadium Terminal,Najafgarh
+792,Mori Gate Terminal,Barthal Village
+794,Nizamuddin Railway Station,Mangla Puri
+794Cluster,Nizamuddin Railway Station,Mangla Puri Terminal
+801,Inder Lok Metro Station,Kapashera Border
+801A,Inder Lok Metro Station,Kapashera Border
+803CLCluster,Shivaji Stadium,Madhu Vihar
+804,Jahangir Puri E-Block,Kapashera Border
+805ACluster,ISBT / Kashmiri Gate,Uttam Nagar Terminal
+807ACluster,Old Delhi Railway Station,Uttam Nagar Terminal
+808,Tilak Nagar,Mangol Puri Q-Block
+808Cluster,Tilak Nagar,Mangol Puri Q-Block
+809,Tilak Nagar,Neelwal Village
+810,Kendriya Terminal,Uttam Nagar Terminal
+810Cluster,Kendriya Terminal,Uttam Nagar Terminal
+813CLCluster,ISBT / Kashmiri Gate,Mangla Puri Terminal
+813LnkSTLCluster,ISBT / Kashmiri Gate,BBM II Depot
+816,Old Delhi Railway Station,Uttam Nagar Terminal
+816Cluster,Old Delhi Railway Station,Uttam Nagar Terminal
+816ACluster,Mori Gate Terminal,Kair Depot
+816ExtDownCluster,Kair Depot,Old Delhi Railway Station
+817,ISBT / Kashmiri Gate,Najafgarh
+817Cluster,Inder Lok Metro Station,Kair Village
+817ACluster,Inder Lok Metro Station,Daurala Border
+818,Tilak Nagar,Jhatikara Village
+819,Tilak Nagar,Pandwala Kalan
+820,Jheel,Subhash Nagar Terminal
+822,Tilak Nagar,Issa Pur Temple
+823,Kauria Bridge,Uttam Nagar Terminal
+824,Tilak Nagar,Kair Village
+824LnkSTLCluster,Uttam Nagar Terminal,Kair Depot
+825,Tilak Nagar,Jharoda Kalan
+826,Tilak Nagar,Ch. Braham Parkash Ayurvedic Hospital
+827,Tilak Nagar,Daurala Border
+828,Tilak Nagar,Galibpur
+829,Tilak Nagar,Sikar Pur
+830 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Khyala JJ Colony
+832,Janak Puri D-Block,Inder Lok Metro Station
+832Cluster,Janak Puri D-Block,Inder Lok Metro Station
+832LinkSTLCluster,Janak Puri D-Block,Kair Depot
+833,Karampura Terminal,Goyla Dairy
+834,Tilak Nagar,Nanak Heri Border
+835,Tilak Nagar,Dhansa Border (Bakkargarh Border)
+835Cluster,Tilak Nagar,Dhansa Border (Bakkargarh Border)
+835EXTCluster,Tilak Nagar,Kair Depot
+835STLCluster,Kair Depot,Dhansa Border (Bakkargarh Border)
+836,Tilak Nagar,Mundhela Khurd
+838,Jama Masjid,Uttam Nagar Terminal
+840 Extn.,New Delhi Railway Station Gate 1,Mahaveer Enclave Part-III (Dwaraka Sector 2)
+841,ISBT / Kashmiri Gate,Khyala Village
+842,ISBT / Kashmiri Gate,Raghubir Nagar F-Block
+844,Najafgarh,Sarang Pur
+845,Tilak Nagar,Daulatpur
+847,New Seemapuri,Uttam Nagar Terminal
+847A,New Seemapuri,Uttam Nagar Terminal
+848,Tilak Nagar,Dhansa Border (Bakkargarh Border)
+850Cluster,Kendriya Terminal,Sai Baba Mandir (Nazafgarh)
+850ADownCluster,Najafgarh,Kendriya Terminal Church Road
+851,Delhi Secretariat,Uttam Nagar Terminal
+853,Ambedkar Nagar Terminal,Uttam Nagar Terminal
+854,Sarai Kale Khan ISBT,Uttam Nagar Terminal
+857,Anand Vihar ISBT (Viveka Nand ISBT),Raghubir Nagar F-Block
+858 Extn.,Kamla Market,Rajouri Garden Extn.
+861A,Uttam Nagar Terminal,Jahangir Puri E-Block
+862,Ajmeri Gate,Shivaji Enclave (Raghubir Nagar)
+863,ISBT / Kashmiri Gate,JJ Colony Hastsal
+866,ISBT / Kashmiri Gate,Barar Square
+871,Nizamuddin Railway Station,Vikas Puri H-3
+871ACluster,Shivaji Stadium,Uttam Nagar Terminal
+871Cluster,Shivaji Stadium,Vikas Puri H-3
+872,Tilak Nagar,Surakh Pur
+873,Tilak Nagar,Tajpur Khurd
+874Cluster,Uttam Nagar Terminal,Badarpur Border
+876,Karampura Terminal,Dichaon Kalan
+877,Karampura Terminal,Bijwasan Railway Station
+878,Tilak Nagar,Malik Pur Zar
+879,Janak Puri D-Block,Shahbad Dairy
+879A,Janak Puri D-Block,Badli Railway Station
+879B,Janak Puri D-Block,Shahbad Dairy
+882,Uttam Nagar Terminal,Holambi Kalan JJ Colony
+883,Pragati Maidan,Uttam Nagar Terminal
+883Cluster,ISBT / Kashmiri Gate,Uttam Nagar Terminal
+883ADOWNCluster,Kair Depot,ISBT Kashmere Gate (Nityanand Marg)
+883ExtCluster,Mukarba Chowk,Uttam Nagar Terminal
+885,Tilak Nagar,Rewla Khan Pur
+886,Mehrauli Terminal,Najafgarh
+887,Tilak Nagar,Hasan Pur
+889,Hari Nagar Clock Tower,Rohini Sector 27
+890,Kendriya Terminal,Hastsal Bridge LIG Flats
+891,Hari Nagar Clock Tower,Jahangir Puri E-Block
+894,Okhla,Karampura Terminal
+894A,New Delhi Railway Station Gate 2,Badarpur Border
+894CLCluster,Okhla Village,Karampura Terminal
+894STLCluster,Okhla Village,J.L.N. Stadium (Sunhari Pullah Nallah Parking)
+898,Najafgarh,Asalatpur Khavad
+901,Kamla Market,Mangol Puri Y-Block
+901Cluster,Kamla Market,Mangol Puri Y-Block
+901CLCluster,Ajmeri Gate,Mangol Puri Y-Block
+907,Mori Gate Terminal,Nilothi Extn.
+908,Karampura Terminal,Sultan Puri
+909,Old Delhi Railway Station,West Enclave
+910,Shivaji Stadium,Nangloi Syed
+912,Vishnu Garden N.W. Chowk,Burari Village
+914,Karampura Terminal,Rasul Pur
+915,Inder Lok Metro Station,Majra Dabas
+915 Extn.,Karampura Terminal,Bawana
+917,Ambedkar Stadium Terminal,Madi Pur JJ Colony
+918,Ambedkar Stadium Terminal,Kamruddin Nagar
+918A,Mori Gate Terminal,Paschim Vihar Water Tank
+921,Old Delhi Railway Station,Rani Khera
+921 Extn.,ISBT / Kashmiri Gate,Mubarak Pur Dabas
+921CLCluster,Old Delhi Railway Station,Rani Khera
+921ECluster,Old Delhi Railway Station,Kanjhawla Depot
+922,Fatehpuri,Najafgarh
+923,Fatehpuri,Najafgarh
+924,Old Delhi Railway Station,Majra Dabas
+925,Fatehpuri,Nilothi Village
+926,Fatehpuri,Tikri Border
+926A,Tri Nagar Jai Mata Market,Tikri Border
+926B,Old Delhi Railway Station,Shakar Pur JJ Colony (Samrat Cinema)
+927,Inder Lok Metro Station,Bawana
+927EXTCluster,Punjabi Bagh Terminal,Kanjhawla Depot
+927STLCluster,Karampura Terminal,Kanjhawla Depot
+928,Karampura Terminal,Garhi Randala
+928 Extn.,Old Delhi Railway Station,Savda Ghevra JJ Colony
+928 STL,Karampura Terminal,Savda Ghevra JJ Colony
+929,Fatehpuri,Maurya Enclave K.D. Block
+929Cluster,Old Delhi Railway Station,Mubarak Pur Dabas
+929 Extn.,Inder Lok Metro Station,Maurya Enclave K.D. Block
+929LSTLCluster,Kanjhawla Depot,Mubarakpur Dabas
+931,Punjabi Bagh Terminal,Bakkarwala
+934,Karampura Terminal,Neelwal Village
+935,Azadpur Terminal,Majra Dabas
+936,Pragati Maidan,Gulabi Bagh DDA Flats
+937,Old Delhi Railway Station,Sultan Puri
+937A,Old Delhi Railway Station,Sultan Puri
+937ACluster,Old Delhi Railway Station,Sultan Puri Terminal
+938,Azadpur Terminal,Tikri Border
+938ACLCluster,Azadpur Terminal,Sarvodya Kanya Vidhyalaya / PVC Market
+938LinkStlCluster,Kanjhawla Depot,Sarvodya Kanya Vidhyalaya / PVC Market
+939,Anand Vihar ISBT (Viveka Nand ISBT),Mangol Puri Q-Block
+939 Extn.,Anand Vihar ISBT (Viveka Nand ISBT),Inder Enclave
+940,Shivaji Stadium,Mangol Puri Q-Block
+941,Old Delhi Railway Station,Katewara Village
+942,Fatehpuri,Kair Village
+943,Anand Vihar ISBT (Viveka Nand ISBT),Sultan Puri Terminal
+944,Kendriya Terminal,Sultan Puri
+947,IGI Airport,Savda Ghevra Village
+947A,Bhatti Mines,Savda Ghevra Village
+949,Delhi Secretariat,Tikri Border
+949 Extn.,Sarai Kale Khan ISBT,Savda Ghevra JJ Colony
+949A,Jheel,Savda Ghevra JJ Colony
+951,Kamla Market,West Enclave
+952,Uttam Nagar Terminal,Auchandi Border
+954,Ambedkar Stadium Terminal,Sultan Puri Terminal
+957,Shivaji Stadium,Rohini Sector 22 Terminal / Begumpur
+957A,Shivaji Stadium,Inder Enclave
+961,Narela Terminal,Najafgarh Terminal
+962,Kendriya Terminal,Kanjhawla Village
+962 STL,Karampura Terminal,Kanjhawla Village
+962A,Shivaji Stadium,Majra Dabas
+962B,Kendriya Terminal,Mubarak Pur Dabas
+962ExtCLCluster,Punjabi Bagh Terminal,Kanjhawla Depot
+962STLCluster,Karampura Terminal,Kanjhawla Depot
+963,Shivaji Stadium,Bakkarwala JJ Colony
+966,Nizamuddin Railway Station,Kamruddin Nagar
+966 Extn.,Nizamuddin Railway Station,Kamruddin Nagar
+968,Inder Lok Metro Station,Dhansa Border (Bakkargarh Border)
+969,Narela Terminal,Uttam Nagar Terminal
+969A,Lampur Border,Wazirpur Depot
+970,J.L.N. Stadium (C.G.O. Complex),Rohini Sector 1 Avantika
+970B,Nizamuddin Railway Station,Tri Nagar Jai Mata Market
+970C,J.L.N. Stadium (C.G.O. Complex),West Enclave
+971,Anand Vihar ISBT (Viveka Nand ISBT),Rohini Sector 1 Avantika
+971A,Anand Vihar ISBT (Viveka Nand ISBT),BH Block Shalimar Bagh
+972,Harewali Village,Uttam Nagar Terminal
+972Cluster,Harewali Village,Uttam Nagar Terminal
+972A,Bawana,Uttam Nagar Terminal
+972EXTCluster,Bawana Village,Uttam Nagar Terminal
+975,Kendriya Terminal,Rohini Sector 11 SFS Flats
+976,Anand Vihar ISBT (Viveka Nand ISBT),Nithari
+978,Azadpur Terminal,Najafgarh
+979,Nangloi,Narela Terminal
+980,Pragati Maidan,Kamruddin Nagar
+981,Singhu Border,Tikri Border
+982,New Seemapuri,Sultan Puri
+982LnkSTLCluster,BBM II Depot,Sultan Puri Terminal
+983,Karampura Terminal,Harewali Village
+984A,Rohini Sector 1 Avantika,Lajpat Nagar
+985,Rajendra Nagar R-Block,Shahbad Dairy
+988,Palika Kendra,Qutubgarh Border
+990,Shivaji Stadium,Rithala Village
+990 Extn.,Shivaji Stadium,Rohini Sector 24 Pocket-18
+990A,Shivaji Stadium,Rohini Sector 25 (Deep Vihar)
+990B,Sarojini Nagar Depot,Rajiv Rattan Avas Yojna Sector 3 Bawana
+990CLCluster,Shivaji Stadium,Rithala Village
+990E_CLCluster,Shivaji Stadium,Rohini Sector 23 Pkt 1 (Green Hill Aptt.)
+990SPL,Shivaji Stadium,Rohini Sector 23 Pocket-C
+991,Shivaji Stadium,Mubarak Pur Dabas
+998,Raghubir Nagar F-Block,Bakkarwala JJ Colony
+West Delhi Mudrika,Madhu Vihar,Madhu Vihar
+Yamuna Mudrika,ISBT Kashmere Gate (Nityanand Marg),ISBT Kashmere Gate (Nityanand Marg)
+TMSAzadpurLajpat,Azadpur Terminal,Lajpat Nagar Ring Road
+TMS,Raja Garden,Raja Garden
+TMSLajpatNagar,Lajpat Nagar,Lajpat Nagar
+TMSLajpatNgrAzadpurTerminal,Lajpat Nagar Ring Road,Azadpur Terminal
+Gramin Mudrika,Qutubgarh Border,Qutubgarh Border
+Air Port ExPress 4,ISBT / Kashmiri Gate,IGI Airport TerminalIII
+OMS,Anand Vihar ISBT (Viveka Nand ISBT),Anand Vihar ISBT (Viveka Nand ISBT)
+OMS,Uttam Nagar Terminal,Anand Vihar ISBT (Viveka Nand ISBT)
+WDM(+),Madhu Vihar,Madhu Vihar
+YMS(-),Mori Gate Terminal (Khoya Mandi),Mori Gate Terminal (Khoya Mandi)
+By Pass Express,Uttam Nagar Terminal,Sarai Kale Khan I.S.B.T.
+8A,Noida Phase 2,Nehru Place Terminal
+19A,Palika Kendra,Jahangirpuri Terminal
+19B,Jama Masjid,Jahangir Puri E-Block
+34A,Lado Sarai,Mayur Vihar Ph-III
+39A,Anand Vihar Terminal,Tri Nagar Jai Mata Market
+39STL,Jheel Terminal,Anand Parbat Terminal
+88,Tri Nagar Jai Mata Market,Kashmere Gate I.S.B.T.
+116,Old Delhi Railway Station,Bawana JJ Colony KL-Block
+116B,Shadipur Depot,Bawana J.J.Colony
+323,Noida Sector 62,Dhaula Kuan
+340,Kendriya Terminal,Nand Nagari Terminal
+341,Anand Vihar ISBT (Viveka Nand ISBT),Holambi Kalan JJ Colony
+347,ISBT / Kashmiri Gate,Noida Sector 34 U.P. Roadways Terminal
+174,Kanjhawala Village,Azad Pur Terminal
+178,Sannoth Village,Azadpur Terminal
+187-A,Samaypur Badli Railway Station,Palika Kendra
+188,Qutab Garh,Kendriya Terminal (Church Road)
+211B,Mayur Vihar Phase 3 Terminal,Mori Gate Terminal
+233,Nihal Vihar T-Point,Old Delhi Railway Station
+258SPL,Sabhapur Village,Mori Gate Terminal
+348,Mori Gate Terminal,Mayur Vihar Ph-III
+349,Kendriya Terminal,Mayur Vihar Ph-III
+357A,Anand Vihar ISBT Main Road,Sabhapur Village
+398,Mayur Vihar Phase III,Dhaula Kuan
+433A,Tehkhand Depot,Safdarjung Terminal
+448B,Ambedkar Nagar Terminal,Punjabi Bagh Terminal
+479STL,Kushak Nallah Depot,Badarpur Border
+506STL,Mehrauli Terminal,Jheer Khore Mandir
+525STL,Qutab Minar Metro Station,Badarpur Border
+529Spl.,Saiyyad Nanglo,Nehru Place Terminal
+539A,Najafgarh Terminal,Ambedkar Nagar Terminal / Dipsar
+539K,Kapashera Border,Najaf Garh Terminal
+567A Spl,Nehru Place Terminal,Mubarakpur Dabas
+605Spl.,D.P.S.Vasant Kunj,Mori Gate Terminal
+610-B,North Block (Sena Bhavan),Gole Market
+703A,Uttam Nagar Terminal,Kendriya Terminal
+728,Najafgarh Terminal,New Delhi Railway Station Gate 2
+740B,Bindapur Dda Flats,Anand Vihar I.S.B.T.
+770B,Patiala House,Dwarka District Court
+794A,Nizamuddin Railway Station,Dwarka Sector 10
+803,Shivaji Stadium,Madhu Vihar
+804A,Kapashera Border,Jahangirpuri Terminal
+813,Mangla Puri Terminal,ISBT Nityanand Marg
+816A,I.S.B.T. Kashmere Gate,H-3 Vikaspuri
+817N,Najaf Garh Terminal,Kashmere Gate I.S.B.T.
+821,Tilak Nagar Terminal,Jaffar Pur Kalan
+825A,Tikri Border,Tilak Nagar
+828A,Sarangpur,Najafgarh Terminal
+844,Najaf Garh,Sarang Pur
+849,I.L.A.,Acquacallenti
+864,Sarai Kale Khan I.S.B.T.,Tilak Nagar
+879D,Rohini Sector 16,Rani Bagh
+882A,Uttam Nagar Terminal,Narela Terminal
+910A,Nihal Vihar,New Delhi Railway Station Gate No.2
+938A,Tikri Border,Azadpur Terminal
+938B,Rithala Metro,Mundka Village
+948,Narela Terminal,Kanjhawala Chowk
+953,Q-Block Mangolpuri Terminal,Ajmeri Gate / Kamla Market
+966B,Sultanpuri Terminal,Nizamuddin Railway Station
+970A,Rohini Sector 16,C.G.O. Complex
+972B,Peera Garhi Depot,Ghoga Village
